@@ -1,0 +1,18 @@
+CSE Rony, [9/15/2025 10:25 PM]
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+
+Windows:
+python3 -m venv venv
+source venv/Scripts/activate
+pip install -r requirements.txt
+
+CSE Rony, [9/15/2025 10:29 PM]
+python -m venv venv                                                                                                                                                                                              C:venv\Scripts\activate                                                                                                                                                                                            (venv) C:pip install -r requirements.txt
+
+ATIQUR RAHMAN, [9/15/2025 10:33 PM]
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
