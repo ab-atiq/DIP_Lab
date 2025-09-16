@@ -8,3 +8,5 @@ pip install numpy opencv-python matplotlib Pillow scipy
 https://g.co/gemini/share/0d1a15ae6406
 
 https://chatgpt.com/share/68c8700a-445c-800e-8451-810f8fae6c00
+
+https://docs.google.com/document/d/1wTxl_j_YchVPS5cko9Pn4SRc-fpZm0SJ3hXLuZD49ss/edit?usp=sharing
